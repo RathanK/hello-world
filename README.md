@@ -1,2 +1,3 @@
 # hello-world
-My First GitHub repository
+Hi there,
+Myself Rathana kumar and this my first GitHub code
